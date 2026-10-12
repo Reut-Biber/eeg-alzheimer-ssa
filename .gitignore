@@ -1,0 +1,7 @@
+# Raw data and generated results (not shared)
+*.csv
+*.mat
+
+# MATLAB autosave and temporary files
+*.asv
+*.m~
